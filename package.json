@@ -1,16 +1,16 @@
-{
-  "name": "mybookmark",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-  //  "build": "postcss css/tailwind.css -o public/build/tailwind.css",
-    // "build-css": "tailwindcss build src/styles.css -o public/styles.css"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "tailwindcss": "^2.2.7"
-  }
-}
+// {
+//   "name": "mybookmark",
+//   "version": "1.0.0",
+//   "description": "",
+//   "main": "index.js",
+//   "scripts": {
+
+//     "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+//   },
+//   "keywords": [],
+//   "author": "",
+//   "license": "ISC",
+//   "dependencies": {
+//     "tailwindcss": "^2.2.7"
+//   }
+// }
